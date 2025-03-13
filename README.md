@@ -11,15 +11,15 @@
 <h2>📚 Tecnologias e ferramentas</h2>
 <li><strong>Ferramentas:</strong></li>
 <ul>
-    <li><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"> Git</li>
-    <li><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> GitHub</li>
-    <li><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> JavaScript</li>
-    <li><img src="https://img.shields.io/badge/CSS-2965F1?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"> CSS</li>
-    <li><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"> HTML</li>
-    <li><img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"> Cypress</li>
+    <li><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></li>
+    <li><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></li>
+    <li><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></li>
+    <li><img src="https://img.shields.io/badge/CSS-2965F1?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"></li>
+    <li><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"></li>
+    <li><img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"></li>
 </ul>
 
-<li><strong>Metodologias:</strong> Testes manuais, automação (aprendendo), pirâmide de testes</li>
+<li><strong>Metodologias:</strong> Testes manuais, automação (aprendendo), pirâmide de testes</li>, metodologias ágeis e etc...
 
 <h2>👨‍💻 Conecte-se comigo</h2>
 <a class="badge" href="https://www.linkedin.com/in/vin%C3%ADciusguimar%C3%A3es-88ab08267/" target="_blank">
