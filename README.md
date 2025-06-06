@@ -19,7 +19,7 @@
     <li><img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"></li>
 </ul>
 
-<li><strong>Metodologias:</strong> Testes manuais, automação (aprendendo), pirâmide de testes</li>, metodologias ágeis e etc...
+<li><strong>Metodologias:</strong> Testes manuais, automação (aprendendo), pirâmide de testes, metodologias ágeis e etc...</li>
 
 <h2>👨‍💻 Conecte-se comigo</h2>
 <a class="badge" href="https://www.linkedin.com/in/vin%C3%ADciusguimar%C3%A3es-88ab08267/" target="_blank">
