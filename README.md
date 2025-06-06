@@ -5,7 +5,7 @@
     <li>Atualmente graduando em <strong>Análise e Desenvolvimento de Sistemas</strong> e focando meus estudos em <strong>QA e testes de software</strong></li>
     <li>Interesse em <strong>automação de testes, análise de qualidade e boas práticas de desenvolvimento</strong></li>
     <li>Buscando colaborar em projetos e aprender cada vez mais</li>
-    <li>Concluí cursos de <strong>QA, Lógica de Programação, Git/GitHub, HTML e CSS</strong> na plataforma Alura</li>
+
 </ul>
 
 <h2>📚 Tecnologias e ferramentas</h2>
